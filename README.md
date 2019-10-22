@@ -13,3 +13,7 @@ Readymade quinoa beard shoreditch bicycle rights. Synth tofu ethical, biodiesel 
 cool new shortcut 
 add and commit in one step
 git commit -am "added cool shortcut sirections"
+
+# Website contents
+
+Blah Blah Blah...
